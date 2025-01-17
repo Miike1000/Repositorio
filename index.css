@@ -4,13 +4,14 @@ body {font-family:Arial, Helvetica, sans-serif;
 }
 
 ul {
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
-    align-items: center;
-    padding: 16px
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  padding: 16px;
 }
-a{
+
+a {
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
@@ -35,6 +36,51 @@ h2 {
 a {
     text-align: center;
 }
-.Contato {
-    color: brown;
+
+.h31{
+    align-items: center;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
+.Mod1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.h32{
+    align-items: center;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
+.Mod2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.Mod3{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.Mod4{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.Mod5{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.Mod6{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.importante{
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
